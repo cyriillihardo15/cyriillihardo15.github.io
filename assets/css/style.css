@@ -1179,6 +1179,7 @@ section .container {
   text-align: right;
   font-size: 13px;
   color: #fff;
+  opacity:1%;
   z-index: 999999;
 
 }
